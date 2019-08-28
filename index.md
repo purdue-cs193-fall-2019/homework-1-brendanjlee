@@ -5,8 +5,9 @@ You can use the [editor on GitHub](https://github.com/kalutes/CS193_Fall18_Lab1/
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
 ### Markdown
+### BIG BOLD LETTERS FOR ME
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for:
 
 ```markdown
 Syntax highlighted code block
@@ -20,10 +21,14 @@ Syntax highlighted code block
 
 1. Numbered
 2. List
+3. Of some random stuff I need to fill out
+4. Try to use your pinky when you want to use the backspace key and the 'p' key
 
 **Bold** and _Italic_ and `Code` text
+**This Better Look Bold but not BIG**
+_Italic words look nice but it's a little harder to read_
 
-[Link](url) and ![Image](src)
+[google.com](url) and ![Image](src)
 ```
 
 For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
